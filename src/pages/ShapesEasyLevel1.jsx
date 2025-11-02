@@ -7,7 +7,7 @@ import circleDraggable from "../assets/Shapes/ShapesEasy/CircleDraggable.webp";
 import squareDraggable from "../assets/Shapes/ShapesEasy/squareDraggable.webp";
 import squareDroppable from "../assets/Shapes/ShapesEasy/squareDroppable.webp";
 import triangleDraggable from "../assets/Shapes/ShapesEasy/triangleDraggable.webp";
-import triangleDroppable from "../assets/Shapes/ShapesEasy/triangleDroppable.webp";
+import triangleDroppable from "../assets/Shapes/ShapesEasy/TriangleDroppable.webp";
 
 import bg from "../assets/Shapes/ShapesEasy/lvl1Bg.webp";
 
