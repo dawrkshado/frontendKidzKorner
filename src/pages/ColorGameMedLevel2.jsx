@@ -15,7 +15,7 @@ import eggplant from "../assets/Color/Medium/eggplant.webp";
 import orange from "../assets/Color/Medium/orange.webp";   
 import star from "../assets/Color/Medium/star.webp";  
 import leaf from "../assets/Color/Medium/leaf.webp";  
-import balloon from "../assets/Color/Medium/greenballoon.webp"; 
+import balloon from "../assets/Color/Medium/greenBalloon.webp"; 
 import butterfly from "../assets/Color/Medium/butterfly.webp";
 import heart from "../assets/Color/Medium/heart.webp";
 import basketball from "../assets/Color/Medium/basketball.webp";
