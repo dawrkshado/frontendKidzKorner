@@ -2,7 +2,7 @@ import { useState,useEffect } from "react";
 import { DndContext, useDraggable, useDroppable, pointerWithin } from "@dnd-kit/core";
 
 import draggableNumber2 from "../assets/Number/Medium/draggableNumber2.webp"
-import draggableNumber4 from "../assets/Number/Medium/draggableNumber4.webp"
+import draggableNumber4 from "../assets/Number/Medium/draggablenumber4.webp"
 import draggableNumber6 from "../assets/Number/Medium/draggableNumber6.webp"
 
 import droppableFish1 from "../assets/Number/Medium/droppableFish1.webp"

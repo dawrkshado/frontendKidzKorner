@@ -28,7 +28,7 @@ import { useNavigate } from "react-router-dom";
 
 import catSound from "../../../../assets/Animals/Lesson2/catSound.mp3"
 import cowSound from "../../../../assets/Animals/Lesson2/cowSound.mp3"
-import dogSound from "../../../../assets/Animals/lesson2/dogSound.mp3"
+import dogSound from "../../../../assets/Animals/Lesson2/dogSound.mp3"
 import pigSound from "../../../../assets/Animals/Lesson2/pigSound.mp3"
 import duckSound from "../../../../assets/Animals/Lesson2/duckSound.mp3"
 
