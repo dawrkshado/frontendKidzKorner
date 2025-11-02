@@ -5,9 +5,9 @@ import { motion, AnimatePresence } from "framer-motion";
 
 import Back from "../components/Back";
 
-import easycolorl1 from "../assets/color/easycolorl1.png";
-import easycolorl2 from "../assets/color/easycolorl2.png";
-import easycolorl3 from "../assets/color/easycolorl3.png";
+import easycolorl1 from "../assets/Color/easycolorl1.png";
+import easycolorl2 from "../assets/Color/easycolorl2.png";
+import easycolorl3 from "../assets/Color/easycolorl3.png";
 import tutorialVideo from "../assets/videos/ColordEasyTutorial.mp4";
 
 import backgroundMusic from "../assets/Sounds/background.mp3";

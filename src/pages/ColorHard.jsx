@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 
 import Back from "../components/Back";
-import hardbuttoncolor from "../assets/color/hardbuttoncolor.png";
+import hardbuttoncolor from "../assets/Color/hardbuttoncolor.png";
 import tutorialVideo from "../assets/videos/ColorsHardTutorial.mp4"; 
 import { Link } from "react-router-dom";
 import { motion, AnimatePresence } from "framer-motion";

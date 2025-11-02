@@ -6,7 +6,7 @@ import { useWithSound } from "../components/useWithSound";
 import bg from "../assets/Number/Easy/bglvl2.webp";
 import wrongImage from "../assets/Alphabets/Hard/cross.gif" 
 import one from "../assets/Number/Easy/One.webp";
-import two from "../assets/Number/Easy/two.webp";
+import two from "../assets/Number/Easy/Two.webp";
 import three from "../assets/Number/Easy/three.webp";
 import four from "../assets/Number/Easy/four.webp";
 import five from "../assets/Number/Easy/five.webp";

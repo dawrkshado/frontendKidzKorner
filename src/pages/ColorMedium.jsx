@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import Back from "../components/Back";
-import avebutton1 from "../assets/color/avebutton1.png";
-import avebutton2 from "../assets/color/avebutton2.png";
+import avebutton1 from "../assets/Color/avebutton1.png";
+import avebutton2 from "../assets/Color/avebutton2.png";
 import tutorialVideo from "../assets/videos/ColorsMediumTutorial.mp4";
 import { Link } from "react-router-dom";
 import { motion, AnimatePresence } from "framer-motion";

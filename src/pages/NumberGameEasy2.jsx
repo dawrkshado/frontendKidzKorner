@@ -3,7 +3,7 @@ import bg from "../assets/Number/Easy/bglvl3.webp";
 import wrongImage from "../assets/Alphabets/Hard/cross.gif" 
 
 import six from "../assets/Number/Easy/One.webp";
-import seven from "../assets/Number/Easy/two.webp";
+import seven from "../assets/Number/Easy/Two.webp";
 import eight from "../assets/Number/Easy/three.webp";
 import nine from "../assets/Number/Easy/four.webp";
 import ten from "../assets/Number/Easy/five.webp";

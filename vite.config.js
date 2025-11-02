@@ -19,6 +19,12 @@ export default defineConfig({
     host: true,
     port: 5173
   },
+  css: {
+    postcss: {
+      plugins: [],
+    },
+    devSourcemap: false,
+  },
   build: {
     // Optimize build for SEO and performance
     // Use esbuild (default, faster) or terser for more aggressive minification
@@ -29,6 +35,13 @@ export default defineConfig({
           vendor: ['react', 'react-dom', 'react-router-dom'],
           helmet: ['react-helmet'],
         },
+      },
+      onwarn(warning, warn) {
+        // Suppress CSS @property warnings from tailwindcss-motion
+        if (warning.code === 'css-syntax-error' && warning.message.includes('@property')) {
+          return;
+        }
+        warn(warning);
       },
     },
     // Generate source maps for better debugging (can disable in production)
@@ -42,4 +55,6 @@ export default defineConfig({
   optimizeDeps: {
     include: ['react', 'react-dom', 'react-router-dom', 'react-helmet'],
   },
+  // Suppress CSS warnings during build
+  logLevel: 'warn',
 })
