@@ -2,8 +2,8 @@ import { useState, useEffect, useMemo } from "react";
 import { DndContext, useDraggable, useDroppable, pointerWithin } from "@dnd-kit/core";
 
 
-import circleDroppable from "../assets/Shapes/ShapesEasy/circleDroppable.webp";
-import circleDraggable from "../assets/Shapes/ShapesEasy/circleDraggable.webp";
+import circleDroppable from "../assets/Shapes/ShapesEasy/CircleDroppable.webp";
+import circleDraggable from "../assets/Shapes/ShapesEasy/CircleDraggable.webp";
 import squareDraggable from "../assets/Shapes/ShapesEasy/squareDraggable.webp";
 import squareDroppable from "../assets/Shapes/ShapesEasy/squareDroppable.webp";
 import triangleDraggable from "../assets/Shapes/ShapesEasy/triangleDraggable.webp";
