@@ -1,10 +1,10 @@
 
 
-import dashboard from "../assets/Teacherhomepage/una.png";
-import studentmanagement from "../assets/Teacherhomepage/pangalawa.png";
-import overview from "../assets/Teacherhomepage/panglima.png";
-import usercontrol from "../assets/Teacherhomepage/pangapat.png";
-import UploadContents from "../assets/Teacherhomepage/pangatlo.png";
+import dashboard from "../assets/TeacherHomePage/una.png";
+import studentmanagement from "../assets/TeacherHomePage/pangalawa.png";
+import overview from "../assets/TeacherHomePage/panglima.png";
+import usercontrol from "../assets/TeacherHomePage/pangapat.png";
+import UploadContents from "../assets/TeacherHomePage/pangatlo.png";
 import { Link } from 'react-router-dom'
 import Logout from "../components/Logout";
 import { useEffect,useState } from "react";
